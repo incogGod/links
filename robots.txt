@@ -1,3 +1,0 @@
-Sitemap: https://links.incoggod.in/sitemap.xml
-User-agent: *
-Allow: /
